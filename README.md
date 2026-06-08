@@ -1,27 +1,11 @@
-<!--
-  Esspry LLC — GitHub Organization Profile README
-  Location: in the  Esspry-LLC/.github  repository  ->  profile/README.md
-  Logos: profile/assets/logo.png  and  profile/assets/logo-white.png
-  NOTE: The .github repo MUST be public (it only contains this profile text + logo, no private code).
-        Product repos can stay PRIVATE — this README does not depend on them.
-  IMPORTANT: Logos appear only after you upload them to profile/assets/ in the .github repo.
-             If your default branch is "master" (not "main"), update the URLs below accordingly.
--->
-
 <div align="center">
-
-  <!-- LOGO (theme-aware: black on light, white on dark) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esspry-LLC/.github/main/profile/assets/logo-white.png" />
-    <img src="https://raw.githubusercontent.com/Esspry-LLC/.github/main/profile/assets/logo.png" alt="Esspry LLC" width="340" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esspry-LLC/.github/main/profile/logo-white.png" />
+    <img src="https://raw.githubusercontent.com/Esspry-LLC/.github/main/profile/logo.png" alt="Esspry LLC" width="340" />
   </picture>
-
   <br/><br/>
-
   <h3>AI-Powered Software Products</h3>
   <p><i>An innovative technology company that loves technology</i></p>
-
-  <!-- LINK BADGES -->
   <a href="https://esspryllc.com">
     <img src="https://img.shields.io/badge/Website-esspryllc.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
@@ -34,7 +18,6 @@
   <a href="mailto:info@esspryllc.com">
     <img src="https://img.shields.io/badge/Email-info@esspryllc.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
 </div>
 
 ---
